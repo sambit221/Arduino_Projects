@@ -6,6 +6,6 @@ This file includes the following projects of mine
 
 ### Automated Handwash
 
-###LED cube blinking pattern
+### LED cube blinking pattern
 
-###line following bot code
+### line following bot code
